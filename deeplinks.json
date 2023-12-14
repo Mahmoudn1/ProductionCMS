@@ -1,0 +1,85 @@
+{
+  "deeplinkScreens": [
+    {
+      "screenId": "HomeScreen",
+      "deeplinkSchemes": ["https://www.vodafone.de/meinvodafone/app/home"]
+    },
+    {
+      "screenId": "Settings",
+      "deeplinkSchemes": [
+        "https://www.vodafone.de/meinvodafone/app/app_settings"
+      ]
+    },
+    {
+      "screenId": "BillDunning",
+      "deeplinkSchemes": [
+        "https://www.vodafone.de/meinvodafone/app/overview/dunning",
+        "https://www.vodafone.de/meinvodafone/app/billOverview/dunning"
+      ]
+    },
+    {
+      "screenId": "BillLanding",
+      "deeplinkSchemes": [
+        "https://www.vodafone.de/meinvodafone/app/billOverview",
+        "https://www.vodafone.de/meinvodafone/app/archive",
+        "https://www.vodafone.de/meinvodafone/app/overview",
+        "https://www.vodafone.de/meinvodafone/app/overview/latest-bill"
+      ]
+    },
+    {
+      "screenId": "SimEsimScreen",
+      "deeplinkSchemes": [
+        "https://www.vodafone.de/meinvodafone/app/simmanagement",
+        "https://www.vodafone.de/meinvodafone/app/esim",
+        "https://www.vodafone.de/meinvodafone/app/sim"
+      ]
+    },
+    {
+      "screenId": "CreditTransferScreen",
+      "deeplinkSchemes": ["https://www.vodafone.de/meinvodafone/app/transfer"]
+    },
+    {
+      "screenId": "MyPlan",
+      "deeplinkSchemes": [
+        "https://www.vodafone.de/meinvodafone/app/myplan",
+        "https://www.vodafone.de/meinvodafone/app/tariff"
+      ]
+    },
+    {
+      "screenId": "Balance",
+      "deeplinkSchemes": ["https://www.vodafone.de/meinvodafone/app/balance"]
+    },
+    {
+      "screenId": "AddOns",
+      "deeplinkSchemes": [
+        "https://www.vodafone.de/meinvodafone/app/addons",
+        "https://www.vodafone.de/meinvodafone/app/tariffoptions"
+      ]
+    },
+    {
+      "screenId": "SpeedCheckerScreen",
+      "deeplinkSchemes": [
+        "https://www.vodafone.de/meinvodafone/app/speedtest",
+        "https://www.vodafone.de/meinvodafone/app/speedchecker"
+      ]
+    },
+    {
+      "screenId": "SimEsimScreen",
+      "deeplinkSchemes": [
+        "https://www.vodafone.de/meinvodafone/app/simmanagement"
+      ]
+    },
+    {
+      "screenId": "ChangingContactScreen",
+      "deeplinkSchemes": [
+        "https://www.vodafone.de/meinvodafone/app/contact-data"
+      ]
+    },
+    {
+      "screenId": "CookiesAndTracking",
+      "deeplinkSchemes": [
+        "https://www.vodafone.de/meinvodafone/app/cookies-and-tracking"
+      ]
+    }
+  ]
+}
