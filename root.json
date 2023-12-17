@@ -28,13 +28,6 @@
         "cms-id": "7834",
         "id": "features",
         "resource": "https://mahmoudn1.github.io/ProductionCMS/features.json"
-      },
-      {
-        "timestamp": "1660032683",
-        "cms-guid": "736DJ90754DD44D6AF77FE2880ED748S",
-        "cms-id": "7835",
-        "id": "configs",
-        "resource": "https://mahmoudn1.github.io/ProductionCMS/configs.json"
       }
     ]
   }
