@@ -6,35 +6,28 @@
         "cms-guid": "DFB2339E1D1E494BA6B02E8F9D382D3C",
         "cms-id": "714",
         "id": "icons",
-        "resource": "https://mahmoudn1.github.io/ProductionCMS/icons.json"
+        "resource": "https://mahmoudn1.github.io/GithubCMS/icons.json"
       },
       {
         "timestamp": "1655964309",
         "cms-guid": "31EE35CD662645EAB37F41E3D5D80E57",
         "cms-id": "12",
         "id": "internationalisation",
-        "resource": "https://mahmoudn1.github.io/ProductionCMS/internationalisation.json"
+        "resource": "https://mahmoudn1.github.io/GithubCMS/internationalisation.json"
       },
       {
         "timestamp": "1650611062",
         "cms-guid": "4471E90754DD44D6AF77FE2880ED143E",
         "cms-id": "6080",
         "id": "deeplinks",
-        "resource": "https://mahmoudn1.github.io/ProductionCMS/deeplinks.json"
+        "resource": "https://mahmoudn1.github.io/GithubCMS/deeplinks.json"
       },
       {
         "timestamp": "1660032684",
         "cms-guid": "736DJ90754DD44D6AF77FE2880ED748D",
         "cms-id": "7834",
         "id": "features",
-        "resource": "https://mahmoudn1.github.io/ProductionCMS/features.json"
-      },
-      {
-        "timestamp": "1660032683",
-        "cms-guid": "736DJ90754DD44D6AF77FE2880ED748S",
-        "cms-id": "7835",
-        "id": "configs",
-        "resource": "https://mahmoudn1.github.io/ProductionCMS/configs.json"
+        "resource": "https://mahmoudn1.github.io/GithubCMS/features.json"
       }
     ]
   }
