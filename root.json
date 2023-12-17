@@ -2,13 +2,6 @@
   "app_package": {
     "items": [
       {
-        "timestamp": "20231005172735",
-        "cms-guid": "DFB2339E1D1E494BA6B02E8F9D382D3C",
-        "cms-id": "714",
-        "id": "icons",
-        "resource": "https://mahmoudn1.github.io/ProductionCMS/icons.json"
-      },
-      {
         "timestamp": "1655964309",
         "cms-guid": "31EE35CD662645EAB37F41E3D5D80E57",
         "cms-id": "12",
